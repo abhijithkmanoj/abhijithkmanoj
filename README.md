@@ -33,8 +33,16 @@ I am currently a **MCA student** with a passion for building functional web appl
 --- -->
 
 ## 📈 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijithkmanoj&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithkmanoj&layout=compact&theme=radical)
+<div align="center">
+  <img width="49%" src="https://github-stats-alpha.vercel.app/api?username=abhijithkmanoj&show_icons=true&theme=redical&hide_border=true" alt="GitHub Stats" />
+</div>
+<div align="center">
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhijithkmanoj&theme=redical&hide_border=true&area=true&cache_seconds=86400" alt="Contribution Graph" />
+</div>
+<div align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijithkmanoj&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</div>
+
 
 ---
 
