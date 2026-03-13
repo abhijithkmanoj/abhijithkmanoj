@@ -36,7 +36,7 @@ class Abhijith:
     fun_fact   = "I break complex problems into small, manageable bits of code ⚡"
 ```
 
----
+--- Manoj
 
 <div align="center">
 
@@ -87,7 +87,7 @@ class Abhijith:
 </div>
 
 ---
-
+<!--
 <div align="center">
 
 ## ╔══ 📫  C O N N E C T ══╗
@@ -105,3 +105,4 @@ class Abhijith:
 *Crafted with* ❤️ *by Abhijith K Manoj*
 
 </div>
+-->
